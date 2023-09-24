@@ -1,0 +1,1 @@
+Short project where I created a few html pages containing recipes linked through index.html.
