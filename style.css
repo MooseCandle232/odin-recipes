@@ -1,0 +1,16 @@
+.background {
+    
+}
+
+h1 {
+    background-color: yellowgreen;
+    color: orange;
+    text-align: center;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+.list {
+    background-color: peachpuff;
+    margin-right: 1600px;
+}
